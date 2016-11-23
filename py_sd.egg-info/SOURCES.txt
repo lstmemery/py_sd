@@ -1,0 +1,7 @@
+setup.py
+py_sd/__init__.py
+py_sd.egg-info/PKG-INFO
+py_sd.egg-info/SOURCES.txt
+py_sd.egg-info/dependency_links.txt
+py_sd.egg-info/not-zip-safe
+py_sd.egg-info/top_level.txt
